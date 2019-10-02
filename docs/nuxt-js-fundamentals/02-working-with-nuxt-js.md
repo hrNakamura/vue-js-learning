@@ -53,3 +53,22 @@ https://vueschool.io/lessons/nuxtjs-dynamic-routes
   - ファイル名を_id.vueとする
     - idで動的ルーティングする場合
 
+## Linking Between Pages
+
+https://vueschool.io/lessons/linking-between-pages
+
+- nuxt-linkを使うことでベージを更新しないSPA向けのリンクが作成できる
+- ナビバーのリンクにもnuxt-linkを使用できる
+
+## Utilising the Vuex Store
+
+https://vueschool.io/lessons/utilising-the-vuex-store-nuxtjs
+
+- skip
+
+## SEO and Meta Tags
+
+https://vueschool.io/lessons/nuxtjs-seo-and-meta-tags
+
+- head()に各ページのタイトルやSNS用のメタタグを埋め込むことができる
+
